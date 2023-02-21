@@ -348,3 +348,15 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+# Python venv
+.venv/
+
+# Temp-test/
+temp-test/
+
+# Local test credentials
+credentials.json
+token.json
+service-credentials.json
